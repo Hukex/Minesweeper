@@ -19,13 +19,13 @@
 
 This project was developted in order to practice with **Java** and **JavaFX**.
 
-There are 3 versions of this project.
+There are **3** versions of this project.
 
-Version 1: Displaying by console, basic version that doesn't show/uncover the no mines cells around your choice.
+**Version 1:** Displaying by console, basic version that doesn't show/uncover the no mines cells around your choice.
 
-Version 2: Displaying by console, this version has my own algorithm to solve the problem of the previous version. So its a full minesweeper but very difficult to play because is by console.
+**Version 2:** Displaying by console, this version has my **own algorithm** to solve the problem of the previous version. So its a full minesweeper but very difficult to play because is by console.
 
-Version 3: Displaying by JavaFX, graphic version. This version is the last one and it includes the previous version algorithm with the add of the visual part with JavaFX. So its easier to play.
+**Version 3:** Displaying by JavaFX, graphic version. This version is the last one and it includes the previous version algorithm with the add of the visual part with JavaFX. So its easier to play.
 
 # Preview🔍
 
