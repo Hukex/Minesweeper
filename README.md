@@ -29,7 +29,7 @@ There are **3** versions of this project.
 
 # Preview🔍
 
-[💠You can try it!💠](https://github.com/Hukex/Minesweeper/blob/master/dist/J3FernandoVera.jar)
+[💠You can try it!💠](https://github.com/Hukex/Minesweeper/blob/master/dist/J3FernandoVera.jar?ray=true)
 
 *Sadly my laptop doesn't allow me to capture my full screen, just an window so in the preview doesn't appear the win/gameover window but you can see it lower on screenshots, sorry*😔
 
